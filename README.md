@@ -17,7 +17,7 @@ Check out the live demo of the application [here](https://659ae24bb11170b34e48d2
 This project uses the RapidAPI Weather API. Follow these simple steps to set it up:
 
 1. **Create an Account:**
-   Sign up on [RapidAPI](https://rapidapi.com/), then subscribe to the API at weatherapi.com. [Subscribe to the RapidAPI Weather API here](https://rapidapi.com/apidojo/api/weather338/).
+   Sign up on [RapidAPI](https://rapidapi.com/), then subscribe to the WeatherAPI by visiting [Subscribe to the RapidAPI Weather API here](https://rapidapi.com/apidojo/api/weather338/).
 
 2. **Update API Key and Host:**
    After subscribing, go to `src/Environment/EnvironmentVariable.ts` and replace the API key and host with your own values. You received these when you subscribed to the API at RapidAPI.
